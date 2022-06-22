@@ -84,6 +84,6 @@ c) Tasks for NGINX container:
 
 	6) Test your full project accessing http://localhost/ on your browser.
 
-d) Don't forget to commit and push your project into your forked repository.
+d) on't forget to commit and push your project into your forked repository.
 
 ----------------------------------------------------------------
